@@ -4,3 +4,11 @@
 
 
 文字補充連結：https://www.notion.so/114-1-2e436e7f278c801995cfd6439d14df89#2e436e7f278c8035ae0ed62f7f2be55c
+
+
+
+## Data Availability Statement
+Due to patient privacy and ethical considerations, 
+the original clinical data used in this study are not publicly available.
+Only de-identified sample data or feature-level representations are provided 
+for demonstration and reproducibility purposes.
