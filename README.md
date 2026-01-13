@@ -1,14 +1,13 @@
 # ai-laryngeal-injection-outcome-prediction
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=200&section=header&text=AI%20Laryngeal%20Injection%20Outcome%20Prediction&fontSize=32&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b5876,100:4e4376&height=200&section=header&text=應用人工智慧方法預測注射式喉成型術後狀況&fontSize=32&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
   <b>Course Final Project · Medical AI · Voice Analysis</b>
 </p>
 
-## 應用人工智慧方法預測注射式喉成型術後狀況
 
 ## Project Scope and Disclaimer｜專案範圍與聲明
 
