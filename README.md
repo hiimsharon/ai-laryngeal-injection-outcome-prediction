@@ -85,6 +85,7 @@ The `data/` directory does **not** contain original clinical data.
 
 ```bash
 pip install -r requirements.txt
+```
 模型訓練與評估流程請參考 src/ 資料夾內之程式碼。
 本專案未提供原始臨床資料。
 
